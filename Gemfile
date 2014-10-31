@@ -40,3 +40,17 @@ gem 'spring',        group: :development
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
 gem 'devise'
+gem 'paperclip', '~> 4.2'
+
+
+
+
+
+
+
+
+
+
+
+
+
