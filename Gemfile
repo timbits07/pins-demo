@@ -41,6 +41,11 @@ gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
 gem 'devise'
 gem 'paperclip', '~> 4.2'
+# Amazon S3 gem for picture storage
+gem 'aws-sdk', '~> 1.20.0'
+# Masonry styling gems
+gem 'jquery-turbolinks'
+gem 'masonry-rails', '~> 0.2.0'
 
 
 

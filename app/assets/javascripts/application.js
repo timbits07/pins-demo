@@ -11,7 +11,14 @@
 // about supported directives.
 //
 //= require jquery
-//= require bootstrap-sprockets
 //= require jquery_ujs
+//= require bootstrap-sprockets
 //= require turbolinks
+//= require masonry/jquery.masonry
+//= require jquery.turbolinks
 //= require_tree .
+
+// $(".menu").on("click", function(){
+//    $(".menu").find(".active").removeClass("active");
+//    $(this).parent().addClass("active");
+// });
